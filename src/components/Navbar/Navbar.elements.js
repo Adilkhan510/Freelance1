@@ -96,6 +96,7 @@ align-items : center;
 text-decoration : none;
 padding : 0.5rem;
 height : 100%;
+font-family: 'Roboto', sans-serif;
 
 @media screen and (max-width : 960px){
     text-align : center;
@@ -134,5 +135,5 @@ padding : 8px 16px;
 height : 100%;
 width : 100%;
 border : none;
-outline : none
+outline : none;
 `
